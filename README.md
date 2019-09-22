@@ -14,7 +14,6 @@
   <li>Numpy</li>
   <li>Matplotlib</li>
   <li>Pandas</li>
-  <li>google/tf2-preview/gnews-swivel-20dim/1</li>
 </ul>
 
 # References
