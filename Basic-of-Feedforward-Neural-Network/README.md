@@ -52,5 +52,6 @@ One of the important part in this codes is the non-linearity mapping functions. 
 <ul>
   <li>https://en.wikipedia.org/wiki/Activation_function</li>
   <li>https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6</li>
+  <li>https://iamtrask.github.io/2015/07/12/basic-python-network/</li>
 </ul>
 
