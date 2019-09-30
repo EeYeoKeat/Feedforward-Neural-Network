@@ -1,7 +1,10 @@
 # Basic Encoder-decoder with MNIST dataset
 
+This work is to practice the simple encoder and decoder method.
+First, we encoded the MNIST image into matrix, then decoded it.
 
-
+Output of decoder as shown as following:
+<img src="img/output1.png">
 
 
 
